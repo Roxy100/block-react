@@ -1,0 +1,21 @@
+.blockWrapper {
+  .buttons {
+    width: 100%;
+    button {
+      display: block;
+      padding: 10px 50px;
+      margin: 20px auto;
+      border: 2px solid lightgrey;
+      border-radius: 10px;
+      background-color: white;
+      &:hover {
+        border: 2px solid block;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .blocks {
+    width: 100%;
+  }
+}
