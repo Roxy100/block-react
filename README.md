@@ -8,4 +8,4 @@
 - 조건부 렌더링을 활용
 - 컴포넌트 재사용
 
-![conditional-rendering](./images/conditional-rendering.gif)
+![conditional-rendering](./block/images/conditional-rendering.gif)
